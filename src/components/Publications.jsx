@@ -10,33 +10,33 @@ import ReviewCard from "./ReviewCard";
 
 const reviews = [
     {
-      content: 'Presented at "Eurotherm 2024" conference',
-      name: 'A superconvergence result in the RBF-FD method',
+      content: 'Made...',
+      name: 'Japan tourism brochure character design',
       company: 'https://arxiv.org/abs/2404.03393'
     },
     {
-      content: 'Presented at "SpliTech 2023" conference',
-      name: 'Computational electromagnetics with the RBF-FD method',
+      content: 'Made...',
+      name: 'Various illustration work',
       company: 'https://arxiv.org/abs/2303.11806'
     },
     {
-      content: 'Published in "Journal of Computational Science"',
-      name: 'Some observations regarding the RBF-FD approximation accuracy dependence on stencil size',
+      content: 'Made...',
+      name: 'global innovation platform',
       company: 'https://www.sciencedirect.com/science/article/pii/S1877750324000772'
     },
     {
-      content: 'Published in "Mathematics and Computers in Simulation',
-      name: 'A representation and comparison of three cubic macro-elements',
+      content: 'Made...',
+      name: 'kintex illustration work',
       company: 'https://www.sciencedirect.com/science/article/abs/pii/S0378475423005505'
     },
     {
-      content: 'Published in "Matrika"',
-      name: 'Theoretical calculation of nucleon mass',
+      content: 'Made....',
+      name: 'pamphlet design',
       company: 'https://matrika.fmf.uni-lj.si/letnik-6/stevilka-1/andrej_pozun.pdf'
     },
     {
-      content: "My Master's thesis",
-      name: 'Quenches between topological phases in a disordered Su-Schrieffer-Heeger model',
+      content: "Made...",
+      name: '(cousin) Company logo and banner',
       company: 'https://repozitorij.uni-lj.si/Dokument.php?id=136724&lang=slv'
     }
 ];
@@ -62,7 +62,7 @@ const Publications = () => {
         >
             <div className="container">
                 <h2 className="headline-2 mb-8 reveal-up">
-                    My scientific publications
+                    Some of my Freelance projects
                 </h2>
 
                 <div className="scrub-slide-container">

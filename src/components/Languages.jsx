@@ -2,57 +2,40 @@
 
 import SkillCard from "./SkillCard";
 
+
 const skillItem = [
-    {
-      imgSrc: '/images/cpp.svg',
-      label: 'C++',
-      desc: 'Most experienced'
+  {
+      imgSrc: '/images/korean.png',
+      label: 'Korean',
+      desc: 'Native'
     },
     {
-      imgSrc: '/images/python.svg',
-      label: 'Python',
-      desc: 'Most experienced'
+      imgSrc: '/images/english.svg',
+      label: 'English',
+      desc: 'Comfortable'
+  },
+  {
+      imgSrc: '/images/japanese.png',
+      label: 'Japanese',
+      desc: 'Comfortable'
     },
-    {
-      imgSrc: '/images/javascript.svg',
-      label: 'JavaScript',
-      desc: 'Familiar'
-    },
-    {
-      imgSrc: '/images/java.svg',
-      label: 'Java',
-      desc: 'Familiar'
-    },
-    {
-      imgSrc: '/images/matlab.svg',
-      label: 'MATLAB',
-      desc: 'Familiar'
-    },
-    {
-      imgSrc: '/images/bash.svg',
-      label: 'Bash',
+  {
+      imgSrc: '/images/italian.svg',
+      label: 'Italian',
       desc: 'Basic'
-    },
-    {
-      imgSrc: '/images/haskell.svg',
-      label: 'Haskell',
-      desc: 'Basic'
-    },
-    {
-      imgSrc: '/images/mathematica.svg',
-      label: 'Mathematica',
-      desc: 'Basic'
-    },
+  },
+
 ];
+
 
 const Languages = () => {
     return (
         <section 
-        id="skills" 
+        id="languages" 
         className="section">
             <div className="container">
                 <h2 className="headline-2 reveal-up">
-                    Languages I have so far used in my projects
+                    Languages
                 </h2>
 
                 <p className="text-zinc-400 mt-3 mb-8 max-w-[50ch] reveal-up">

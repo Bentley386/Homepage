@@ -19,69 +19,75 @@ const Experience = () => {
                     className="vertical-timeline-element--work"
                     contentStyle={{ background: 'rgb(39 39 42)', color: 'rgb(212 212 216)' }}
                     contentArrowStyle={{ borderRight: '7px solid  rgb(39, 39, 42)' }}
-                    date="2023 - present"
+                    date="2022"
                     iconStyle={{ background: 'rgb(24, 24, 27)', color: '#fff'}}
                 >
-                    <h3 className="vertical-timeline-element-title">Teaching assistant</h3>
-                    <h4 className="vertical-timeline-element-subtitle">University of Ljubljana, Faculty of Mathematics and Physics</h4>
-                    <p> Working as an assistant for the courses:</p>
+                    <h3 className="vertical-timeline-element-title">Jack of all trades</h3>
+                    <h4 className="vertical-timeline-element-subtitle">Fashion center</h4>
+                    <p> At a fashion center I had multiple responsibilities</p>
                     <ul class="list-disc pl-4">
-                        <li>Mathematics 2 (Multivariable calculus)</li>
-                        <li>Analysis 4 (Differential/Difference equations, qualitative analysis, variational calculus, PDEs)</li>
+                        <li>CAD cam assistant</li>
+                        <li>Tailor</li>
+                        <li>Promotion at events</li>
+                        <li>Customer manager</li>
                     </ul>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
                     className="vertical-timeline-element--work"
                     contentStyle={{ background: 'rgb(39 39 42)', color: 'rgb(212 212 216)' }}
                     contentArrowStyle={{ borderRight: '7px solid  rgb(39, 39, 42)' }}
-                    date="2022 - present"
+                    date="2021"
                     iconStyle={{ background: 'rgb(24, 24, 27)', color: '#fff'}}
                 >
-                    <h3 className="vertical-timeline-element-title">Young Researcher</h3>
-                    <h4 className="vertical-timeline-element-subtitle">Jožef Stefan Institute, Parallel and Distributed Systems Laboratory</h4>
-                    <p>Working as a researcher in the field of meshless methods, mainly ones based on Radial Basis Functions (RBF).</p>
-                    <ul class="list-disc pl-4">
-                        <li>Maintaining our C++ library <a href="https://e6.ijs.si/medusa/">Medusa</a></li>
-                        <li>Performing original research, including code and analysis and drafts/presentations (refer to publications below)</li>
-                        <li>Presenting the results in a readable manner, independently writing reports/papers</li>
-                        <li>Presenting our work at international conferences</li>
-                        <li>Supervising a small team of students that work on one of our industrial projects.</li>
-                    </ul>
+                    <h3 className="vertical-timeline-element-title">Data Labeller</h3>
+                    <h4 className="vertical-timeline-element-subtitle">Samyeong Soft Inc</h4>
+                    <p>Worked as a data labeller...</p>
                 </VerticalTimelineElement>
 
                 <VerticalTimelineElement
                     className="vertical-timeline-element--work"
                     contentStyle={{ background: 'rgb(39 39 42)', color: 'rgb(212 212 216)' }}
                     contentArrowStyle={{ borderRight: '7px solid  rgb(39, 39, 42)' }}
-                    date="2022 (6 months)"
+                    date="2018-2019"
                     iconStyle={{ background: 'rgb(24, 24, 27)', color: '#fff'}}
                 >
-                    <h3 className="vertical-timeline-element-title">Associate Researcher</h3>
-                    <h4 className="vertical-timeline-element-subtitle">Jožef Stefan Institute, Parallel and Distributed Systems Laboratory</h4>
-                    <p>Worked on an industrial project for Slovenian power transmission operator.
-                    The topic was forecasting transformer tap changer maintenance.</p>
-                    <ul class="list-disc pl-4">
-                        <li>Created and tested the complete framework based on Bayesian Dynamic Linear Model.</li>
-                        <li>Assisted with its robust implemenation it into our partner's environment.</li>
-                        <li>Assisted with writing a detailed technical report.</li>
-                    </ul>
+                    <h3 className="vertical-timeline-element-title">Research Assistant</h3>
+                    <h4 className="vertical-timeline-element-subtitle">Seoul, National Institute of Forest Science</h4>
+                    <p>Supporting the researchers. Translated the scientific reports from Japanese.</p>
                 </VerticalTimelineElement>
 
                 <VerticalTimelineElement
                     className="vertical-timeline-element--work"
                     contentStyle={{ background: 'rgb(39 39 42)', color: 'rgb(212 212 216)' }}
                     contentArrowStyle={{ borderRight: '7px solid  rgb(39, 39, 42)' }}
-                    date="2019 (6 months)"
+                    date="2017"
                     iconStyle={{ background: 'rgb(24, 24, 27)', color: '#fff'}}
                     >
-                    <h3 className="vertical-timeline-element-title">Student Researcher</h3>
-                    <h4 className="vertical-timeline-element-subtitle">Jožef Stefan Institute, Department of Artificial Intelligence</h4>
-                    <p>
-                    As a student researcher I assisted in two projects:</p>
-                    <ul class="list-disc pl-4">
-                        <li>Finding similarities between topics covered by different news sources.</li>
-                        <li>Using an in-house data analysis tool to classify operating states of an oil refinery.</li>
-                    </ul>
+                    <h3 className="vertical-timeline-element-title">Exhibition Staff</h3>
+                    <h4 className="vertical-timeline-element-subtitle">Seoul Arts Center</h4>
+                    <p>Worked...</p>
+                </VerticalTimelineElement>
+                <VerticalTimelineElement
+                    className="vertical-timeline-element--work"
+                    contentStyle={{ background: 'rgb(39 39 42)', color: 'rgb(212 212 216)' }}
+                    contentArrowStyle={{ borderRight: '7px solid  rgb(39, 39, 42)' }}
+                    date="2016"
+                    iconStyle={{ background: 'rgb(24, 24, 27)', color: '#fff'}}
+                    >
+                    <h3 className="vertical-timeline-element-title">Exhibition Staff</h3>
+                    <h4 className="vertical-timeline-element-subtitle">Culture Station Seoul 284</h4>
+                    <p>Worked...</p>
+                </VerticalTimelineElement>
+                <VerticalTimelineElement
+                    className="vertical-timeline-element--work"
+                    contentStyle={{ background: 'rgb(39 39 42)', color: 'rgb(212 212 216)' }}
+                    contentArrowStyle={{ borderRight: '7px solid  rgb(39, 39, 42)' }}
+                    date="2011-2014"
+                    iconStyle={{ background: 'rgb(24, 24, 27)', color: '#fff'}}
+                    >
+                    <h3 className="vertical-timeline-element-title">Assistant</h3>
+                    <h4 className="vertical-timeline-element-subtitle">Kyoto Satake Flower Shop</h4>
+                    <p>As a student, worked....</p>
                 </VerticalTimelineElement>
             </VerticalTimeline>
         </div>

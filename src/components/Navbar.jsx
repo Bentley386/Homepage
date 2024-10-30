@@ -34,11 +34,6 @@ const Navbar = ({ navOpen}) => {
           ref: lastActiveLink
         },
         {
-          label: 'Skills',
-          link: '#skills',
-          className: 'nav-link'
-        },
-        {
           label: 'Experience',
           link: '#experience',
           className: 'nav-link'
@@ -49,12 +44,17 @@ const Navbar = ({ navOpen}) => {
           className: 'nav-link'
         },
         {
+          label: 'Skills',
+          link: '#skills',
+          className: 'nav-link'
+        },
+        {
           label: 'Projects',
           link: '#work',
           className: 'nav-link'
         },
         {
-          label: 'Publications',
+          label: 'Freelance',
           link: '#publications',
           className: 'nav-link'
         },

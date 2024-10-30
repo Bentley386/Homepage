@@ -4,53 +4,38 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
     {
-      imgSrc: '/images/mathematical.png',
-      label: 'Mathematical Modelling',
-      desc: 'Experienced'
+        imgSrc: '/images/photoshop.svg',
+        label: 'Adobe Photoshop',
+        desc: 'Experienced'
+      },
+      {
+        imgSrc: '/images/illustrator.svg',
+        label: 'Adobe Illustrator',
+        desc: 'Experienced'
     },
     {
-      imgSrc: '/images/algorithms.svg',
-      label: 'Algorithms',
-      desc: 'Experienced'
+        imgSrc: '/images/procreate.svg',
+        label: 'Adobe Procreate',
+        desc: 'Experienced'
+      },
+    {
+        imgSrc: '/images/mac.png',
+        label: 'Mac OS',
+        desc: 'Experienced'
     },
     {
-      imgSrc: '/images/slovenian.png',
-      label: 'Slovenian',
-      desc: 'Native'
-    },
-    {
-        imgSrc: '/images/english.svg',
-        label: 'English',
-        desc: 'Fluent'
-    },
-    {
-        imgSrc: '/images/italian.svg',
-        label: 'Italian',
+        imgSrc: '/images/windows.svg',
+        label: 'MS Windows',
         desc: 'Comfortable'
-    },
-    {
-        imgSrc: '/images/croatian.png',
-        label: 'Serbo-Croatian',
-        desc: 'Comfortable'
-    },
-    {
-        imgSrc: '/images/german.svg',
-        label: 'German',
-        desc: 'Basic'
-    },
-    {
-      imgSrc: '/images/korean.png',
-      label: 'Korean',
-      desc: 'Basic'
     },
 ];
 
 const MiscSkills = () => {
     return (
-        <section className="sectionClean">
+        <section className="sectionClean" id="skills">
             <div className="container">
                 <h2 className="headline-2 reveal-up">
-                    Miscellaneous skills
+                    Skills
                 </h2>
 
                 <p className="text-zinc-400 mt-3 mb-8 max-w-[50ch] reveal-up">

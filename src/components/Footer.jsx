@@ -12,23 +12,23 @@ const sitemap = [
       href: '#about'
     },
     {
+      label: 'Experience',
+      href: '#experience'
+    },
+    {
+      label: 'Education',
+      href: '#education'
+    },
+    {
         label: 'Skills',
         href: '#skills'
-      },
-      {
-        label: 'Experience',
-        href: '#experience'
-      },
-      {
-        label: 'Education',
-        href: '#education'
       },
     {
       label: 'Projects',
       href: '#work'
     },
     {
-      label: 'Publicatons',
+      label: 'Freelance',
       href: '#publications'
     },
     {
@@ -125,7 +125,7 @@ const Footer = () => {
                     </a>
 
                     <p className="text-zinc-500 text-sm reveal-up">
-                        &copy; 2024 <span className="text-zinc-200">AndrejPožun</span>
+                        &copy; 2024 <span className="text-zinc-200">MiryangSim</span>
                     </p>
                 </div>
             </div>

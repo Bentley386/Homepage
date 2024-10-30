@@ -13,10 +13,10 @@ const Hero = () => {
                     <div className="flex items-center gap-3">
                         <figure className="img-box w-9 h-9 rounded-lg">
                             <img 
-                            src="/images/goofyShrink.jpg"
+                            src="/images/Miryang.png"
                             width={40} 
                             height={40} 
-                            alt="Andrej Požun picture"
+                            alt="Miryang Sim picture"
                             className="img-cover" 
                             />
                         </figure>
@@ -28,13 +28,13 @@ const Hero = () => {
                                 rounded-full bg-emerald-400 animate-ping"></span>
                             </span>
 
-                          Open to collaborate
+                          Open to work
                         </div>
                     </div>
 
                     <h2 className="headline-1 max-w-[15ch] 
                     sm:max-w-[20ch] lg:max-w-[15ch] mt-5 mb-8 lg:mb-10">
-                        Analysing data and solving real-life problems. 
+                        Bringing creative solutions and transforming ideas into elegant illustrations.
                     </h2>
 
                     <div className="flex items-center gap-3">
@@ -57,10 +57,10 @@ const Hero = () => {
                      from-sky-400 via-25% via-sky-400/40 to-65%
                      rounded-[60px] overflow-hidden">
                         <img 
-                        src="/images/goofy.jpg" 
+                        src="/images/Miryang.png" 
                         width={600} 
                         height={800} 
-                        alt="Andrej Požun"
+                        alt="Miryang Sim"
                         className="w-full"
                         />
                     </figure>

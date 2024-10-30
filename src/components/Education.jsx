@@ -19,34 +19,23 @@ const Education = () => {
                     className="vertical-timeline-element--school"
                     contentStyle={{ background: 'rgb(39 39 42)', color: 'rgb(212 212 216)' }}
                     contentArrowStyle={{ borderRight: '7px solid  rgb(39, 39, 42)' }}
-                    date="2022 - present"
+                    date="2021"
                     iconStyle={{ background: 'rgb(24, 24, 27)', color: '#fff'}}
                 >
-                    <h3 className="vertical-timeline-element-title">PhD - Mathematics</h3>
-                    <h4 className="vertical-timeline-element-subtitle">University of Ljubljana, Faculty of Mathematics and Physics</h4>
-                    <p>PhD in Numerical Analysis. Average study grade: 10.</p>
+                    <h3 className="vertical-timeline-element-title">Fashion design certification</h3>
+                    <h4 className="vertical-timeline-element-subtitle">Seoul Insitute of Technology and Education</h4>
+                    <p>I learned...</p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
                     className="vertical-timeline-element--school"
                     contentStyle={{ background: 'rgb(39 39 42)', color: 'rgb(212 212 216)' }}
                     contentArrowStyle={{ borderRight: '7px solid  rgb(39, 39, 42)' }}
-                    date="2017 - 2020"
+                    date="2010 - 2014"
                     iconStyle={{ background: 'rgb(24, 24, 27)', color: '#fff'}}
                 >
-                    <h3 className="vertical-timeline-element-title">Master's - Mathematical Physics</h3>
-                    <h4 className="vertical-timeline-element-subtitle">University of Ljubljana, Faculty of Mathematics and Physics</h4>
-                    <p>120/90 credits, average study grade: 10.</p>
-                </VerticalTimelineElement>
-                <VerticalTimelineElement
-                    className="vertical-timeline-element--school"
-                    contentStyle={{ background: 'rgb(39 39 42)', color: 'rgb(212 212 216)' }}
-                    contentArrowStyle={{ borderRight: '7px solid  rgb(39, 39, 42)' }}
-                    date="2017 - 2020"
-                    iconStyle={{ background: 'rgb(24, 24, 27)', color: '#fff'}}
-                >
-                    <h3 className="vertical-timeline-element-title">Bachelor's - Physics</h3>
-                    <h4 className="vertical-timeline-element-subtitle">University of Ljubljana, Faculty of Mathematics and Physics</h4>
-                    <p>Average study grade: 9.2</p>
+                    <h3 className="vertical-timeline-element-title">Bachelor's - Illustration</h3>
+                    <h4 className="vertical-timeline-element-subtitle">University of Kyoto Seika, Faculty of Design</h4>
+                    <p>Graduated in illustration, the programme was taught in japanese, which I learnt while studying and working part time.</p>
                 </VerticalTimelineElement>
             </VerticalTimeline>
         </div>

@@ -17,7 +17,7 @@ const Header = () => {
                         src="/images/logo.svg" 
                         width={40} 
                         height={40} 
-                        alt="Andrej Požun"
+                        alt="Miryang Sim"
                         />
                     </a>
                 </h1>

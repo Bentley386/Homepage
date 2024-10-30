@@ -22,9 +22,10 @@ const About = () => {
                 md:p-12 reveal-up">
                     <p className="text-zinc-300 mb-4 md:mb-8
                     md:text-xl md:max-w-[60ch]">
-                        Welcome! I&apos;m Andrej and this is my page, which should give you some more insight into 
-                        what I know and what I do. If it's not enough, feel free to check my GitHub by clicking <a href="https://github.com/bentley386">here</a> or see what I am
-                        currentl thinking about by checking my blog (doesn't exist yet lol). ˁ˚ᴥ˚ˀ
+                        Welcome! I&apos;m Miryang and this is my page, which should give you an idea of who I am.
+                        As you can see I most enjoy illustration and creative design. For a more complete portofolio you can check....(site).
+                        I am also an avid traveller having been to over 4 continents and 30 countries. You can check some of my experiences at my blog...
+                        ˁ˚ᴥ˚ˀ
                     </p>
 
                     <div className="flex flex-wrap items-center gap-4

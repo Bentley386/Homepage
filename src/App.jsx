@@ -48,7 +48,6 @@ const App = () => {
         <Experience />
         <Education/>
         <Languages />
-        <Technologies />
         <MiscSkills />
         <Work />
         <Publications />
