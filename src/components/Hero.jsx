@@ -13,7 +13,7 @@ const Hero = () => {
                     <div className="flex items-center gap-3">
                         <figure className="img-box w-9 h-9 rounded-lg">
                             <img 
-                            src="/images/Miryang.png"
+                            src="/images/Miryang.jpg"
                             width={40} 
                             height={40} 
                             alt="Miryang Sim picture"
@@ -57,7 +57,7 @@ const Hero = () => {
                      from-sky-400 via-25% via-sky-400/40 to-65%
                      rounded-[60px] overflow-hidden">
                         <img 
-                        src="/images/Miryang.png" 
+                        src="/images/Miryang.jpg" 
                         width={600} 
                         height={800} 
                         alt="Miryang Sim"
